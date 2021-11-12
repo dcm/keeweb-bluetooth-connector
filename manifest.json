@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "bluetooth-connector",
+  "description": "Sync a KeePass database over bluetooth",
+  "author": {
+    "name": "DCM",
+    "email": "a@b.cc",
+    "url": "https://b.cc/"
+  },
+  "resources": {
+    "js": true
+  },
+  "license": "MIT",
+  "url": "https://b.cc/bluetooth-connector",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs8b4W+ijOl+yYSsauN+1cbebfvZccKynzuJ9AvbVeBrzeb7ublTXnd6o7YBZuv4jJnp/nVuFc8t6ndSS4LfME6BRqP13T+yj4bcGFtI5BqtWZp0LNdYiufDm9tLhlBPTZjdTubuLlvZlGmeigb7dppIgPuLqDJgCQDKylQnk8zYPyRjHu0rc8bBi978Jv9fhkXJPaYvRwzq83HVMGKRGj/VnYqLNvWiYneDlkIwu+P8hRZhiq8hfE46IpDzFQZ8NJ9EoNafBSJgysos/jXgWQqfI7An23hMaNnSWbDRxHt7Bzy7M/e9FVBBEE0Ulew5xp7G0mlJJcieVTawYOl4fLQIDAQAB"
+}

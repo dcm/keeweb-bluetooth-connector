@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.pem
+*.zip
+.gitsecret/keys/random_seed
+!*.secret
+*~
